@@ -1,9 +1,0 @@
-sessioninfo:
-	SessionTimeOut: 3
-	list:
-		values: Mercury, Sanjay, Sameer
-dbcredentials:
-	username: Sameer
-	password: temp001
-	hostname: localhost
-	port: 3306
